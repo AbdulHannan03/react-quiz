@@ -1,0 +1,76 @@
+.App {
+  text-align: center;
+  margin-left: 10%;
+}
+.p-2{
+  padding: 10px;
+}
+.p-3{
+  padding: 15px;
+}
+.container{
+  width: 80%;
+  margin: auto;
+  
+}
+.bg-warning{
+  background-color: rgb(255, 111, 111);
+}
+.bg-primary{
+  background-color: rgb(91, 126, 201);
+}
+.bg-info{
+  background-color: rgb(221, 241, 106);
+}
+.rounded{
+  border-radius: 10px;
+}
+.shadow{
+  box-shadow: 5px 5px 5px gray;
+}
+.text-dark{
+  color: black;
+}
+.text-white{
+  color: white;
+}
+.fs-3{
+  font-size: 30px;
+}
+.fs-4{
+  font-size: 40px;
+}
+.fs-1{
+  font-size: 10px;
+}
+.p-5{
+  padding: 25px;
+}
+.px-5{
+  padding: 20px 10px;
+}
+.my-2{
+  margin: 0px 10px;
+}
+.py-2{
+  padding: 0px 10px;
+}
+.row{
+  display: flex;
+  margin-left: 25%;
+  align-content: center;
+}
+.btn-light{
+  cursor: pointer;
+  border: 2px solid blue;
+  color: black;
+}
+.btn-danger{
+  border:2px solid green ;
+  color: white;
+  color: black;
+}
+.rounded-pill{
+  border-radius: 20px;
+  padding: 10px 30px;
+}
